@@ -1,0 +1,27 @@
+ .parallax {
+            background-image: url("");
+
+           
+            height: 175%;
+
+           
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: orangered;
+        }
+        
+      @-webkit-keyframes Gradient {
+            0% {
+                background-position: 0% 50%
+            }
+
+            50% {
+                background-position: 100% 50%
+            }
+
+            100% {
+                background-position: 0% 50%
+            }
+        }
