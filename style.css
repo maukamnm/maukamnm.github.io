@@ -1,4 +1,8 @@
 body{
+              -webkit-animation: Gradient 15s ease infinite;
+            -moz-animation: Gradient 15s ease infinite;
+            animation: Gradient 15s ease infinite;
+}
 @-webkit-keyframes Gradient {
             0% {
                 background-position: 0% 50%
@@ -12,4 +16,4 @@ body{
                 background-position: 0% 50%
             }
         }
-}
+
