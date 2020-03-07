@@ -1,12 +1,10 @@
-#content{
-             align-content: center;
-}
+
 body {
              font: 15px Georgia, Sans-Serif;
              width: 100wh;
 	     height: 90vh;
 	     color: #fff;
-            
+             align-content: center;
         }
 
         #pic {
