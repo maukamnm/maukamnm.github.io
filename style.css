@@ -1,9 +1,15 @@
-
 body{
-  text-align: center;
+  background-image: url(blueCode.jpg);
+  background-color: darkblue;
+  color:white;
+
 }
 
-#pic {
-       transform: rotate(10deg); 
-        float: right;
+#pic{
+    float: right;
+   max-height: 20px;
+    transform: rotate(10deg); 
+}
+#content{
+    text-align: center;
 }
