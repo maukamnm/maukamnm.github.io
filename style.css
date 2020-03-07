@@ -12,10 +12,12 @@ body {
             float: right;
             margin: 10px;
             transform: rotate(10deg);
-	    box-shadow: 0px 0px 10px #555555;	
         }
 
 	#container{
 	    width: 800px;
   	    margin: 40px auto 60px;
 }
+ body {
+            background: url(blurryCode.jpeg);
+        }
