@@ -5,6 +5,7 @@ body {
 	     height: 90vh;
 	     color: #fff;
              align-content: center;
+	     background: "blurryCode.jpeg";
         }
 
         #pic {
@@ -19,5 +20,5 @@ body {
   	    margin: 40px auto 60px;
 }
  body {
-            background: url(blurryCode.jpeg);
+            
         }
