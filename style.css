@@ -8,9 +8,9 @@ body {
         }
 
         #pic {
-            max-width: 10px;
+            max-width: 40px;
             float: right;
             margin: 10px;
             transform: rotate(10deg);
-            box-shadow: darkblue: 10px;
+	    box-shadow: 0px 0px 10px #555555;	
         }
