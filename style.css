@@ -13,3 +13,7 @@ body{
 #content{
     text-align: center;
 }
+
+#name {
+    padding-left: 405px;
+}
