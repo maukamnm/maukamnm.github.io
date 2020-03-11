@@ -10,13 +10,12 @@ body{
 
 #pic{
     float: right;
-   max-height: 20px;
+    max-height: 20px;
     transform: rotate(10deg); 
 }
 #container{
-   	
-	margin: 0 0 16px 0;
-	padding: 0 0 32px 0;
+
+    padding: 0 0 32px 0;
 
 }
 
